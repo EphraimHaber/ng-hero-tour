@@ -1,0 +1,16 @@
+    
+.mat-chip-list{
+    display: flex;  
+    background-color: red;
+    justify-content: center;
+    column-gap: 20px;
+    
+}
+
+.mat-chip-list-wrapper{
+    column-gap: 20px;
+    
+}
+.mat-chip-list-wrapper > .mat-chip {
+    border: 4px solid blue;
+}
